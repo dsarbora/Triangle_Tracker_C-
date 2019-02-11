@@ -1,0 +1,17 @@
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\TriangleTracker.Test.deps.json
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\TriangleTracker.Test.runtimeconfig.json
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\TriangleTracker.Test.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\TriangleTracker.Test.dll
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\TriangleTracker.Test.pdb
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\TriangleTracker.dll
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\bin\Debug\netcoreapp1.1\TriangleTracker.pdb
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\obj\Debug\netcoreapp1.1\TriangleTracker.Test.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\obj\Debug\netcoreapp1.1\TriangleTracker.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\obj\Debug\netcoreapp1.1\TriangleTracker.Test.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\obj\Debug\netcoreapp1.1\TriangleTracker.Test.AssemblyInfo.cs
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\obj\Debug\netcoreapp1.1\TriangleTracker.Test.csproj.CopyComplete
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\obj\Debug\netcoreapp1.1\TriangleTracker.Test.dll
+C:\Users\Dave\source\repos\triangle-tracker\TriangleTracker.Test\obj\Debug\netcoreapp1.1\TriangleTracker.Test.pdb
